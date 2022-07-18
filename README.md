@@ -2,23 +2,24 @@
 
 ## 🔭 What I've been doing
 I’m currently working at 
-<a href="https://www.ufms.br">Universidade Federal de Mato Grosso do Sul (Brazil)</a> as **Senior Lecturer** and developing as much code as I can among various projects.
+<a href="https://www.ufms.br">Universidade Federal de Mato Grosso do Sul (Brazil)</a> as **Senior Lecturer**.
+I also have been coding apps using Javascript stack, namely Node.JS, React.JS, Next.JS, Angular 11+ and developing as much code as I can among various projects.
 
 ## 👨‍🎓 In my past 
 - 2018 - Computer Science  (Ph.D.) 
   - Trinity College Dublin, Ireland 
   - Software Engineering • Formal Methods
-  - Thesis: (_Model-Checking Circus with FDR using Circus2CSP_)[https://core.ac.uk/download/pdf/9257266.pdf]
+  - Thesis: [_Model-Checking Circus with FDR using Circus2CSP_]([https://core.ac.uk/download/pdf/9257266.pdf](http://www.tara.tcd.ie/handle/2262/86009))
 
 - 2012 - Computer Science  (M.Sc.) 
   - University of York, England 
   - Software Engineering • Formal Methods
-  - Thesis: _Formal Specification of the ARINC 653 Architecture Using Circus_
+  - Thesis: [_Formal Specification of the ARINC 653 Architecture Using Circus_](https://core.ac.uk/download/pdf/9257266.pdf)
 
 - 2010 - Computer Science  (B.Sc.) 
   - Federal University of Rio G. do Norte, Brazil 
   - Software Engineering • Formal Methods
-  - Thesis: _Formal Development of a Cardiac Pacemaker: From Specification to Code_
+  - Thesis: [_Formal Development of a Cardiac Pacemaker: From Specification to Code_](https://link.springer.com/chapter/10.1007/978-3-642-19829-8_14)
    
 
 ## 📫 You can find me around
@@ -36,6 +37,8 @@ I’m currently working at
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> 
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</section>
+<a href="https://www.haskell.corg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/haskell-colored.svg" width="36" height="36" alt="Figma" /></a>
 </section>
 
 
@@ -69,3 +72,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ⚡ Fun facts
+- In my PhD thesis, I wrote a translation tool using Haskell, a functional language, which is quite different from what I was used to before. And since then, I see other programming languages in a different way.
+- When I was in college, I worked as a freelancer shooting professional photos for weddings and graduation cerimonies.
+- I like to travel a lot and went to 🇧🇷🇫🇷🇩🇪🇧🇪🇳🇱🇬🇧🇵🇹🇧🇴🇮🇪🇪🇸🏴󠁧󠁢󠁷󠁬󠁳󠁿🇭🇷🇦🇹🇮🇹🇨🇾🇨🇿🇦🇪🇹🇭🇦🇷🇺🇾
