@@ -8,7 +8,7 @@ I’m currently working at
 - 2018 - Computer Science  (Ph.D.) 
   - Trinity College Dublin, Ireland 
   - Software Engineering • Formal Methods
-  - Thesis: _Model-Checking Circus with FDR using Circus2CSP_
+  - Thesis: (_Model-Checking Circus with FDR using Circus2CSP_)[https://core.ac.uk/download/pdf/9257266.pdf]
 
 - 2012 - Computer Science  (M.Sc.) 
   - University of York, England 
