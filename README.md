@@ -21,8 +21,6 @@ I’m currently working at
   - Thesis: _Formal Development of a Cardiac Pacemaker: From Specification to Code_
    
 
-<!-- Previously, I had pleasure to work with awesome people in great projects like Groupon, Peixe Urbano, Letras.mus.br, Cifraclub.com.br, Letrasdemusicas.com.br, Comprafacil.com.br, MultiShow, Bauducco, Microfonia.fm and many others -->
-
 ## 📫 You can find me around
 - Sharing updates on 
 <a href="https://www.linkedin.com/in/arturgomes/">LinkedIn</a> 💼
@@ -52,6 +50,7 @@ I’m currently working at
 <!-- <a href="https://www.dev.to/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>  -->
 <!-- <a href="https://discord.com/users/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>  -->
 <a href="https://www.github.com/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.instagram.com/artur.o.gomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>  <a href="https://www.linkedin.com/in/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <!-- <a href="https://www.polywork.com/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>  -->
 <!-- <a href="http://www.medium.com/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>  -->
 <!-- <a href="https://www.twitter.com/arturgomes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>  -->
