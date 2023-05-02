@@ -6,7 +6,7 @@ Developer, Designer & Teacher
 *   🌍  I'm based in Corumbá, Brazil
 *   🖥️  See my profile on [linkedin](https://www.linkedin.com/in/arturoli)
 *   ✉️  You can contact me at [artur.o.gomes@gmail.com](mailto:artur.o.gomes@gmail.com)
-*   🚀  I'm currently working on [Universidade Federal de Mato Grosso do Sul (Brazil)](https://www.ufms.br)
+*   🚀  I'm currently working at [Universidade Federal de Mato Grosso do Sul (Brazil)](https://www.ufms.br)
 *   🤝  I'm open to collaborating on interesting projects as a developer 
 *   ⚡  I've been developing as much code as I can using Javascript-_related_ frameworks, namely Node.JS, React.JS, Next.JS, Angular 11+ and developing as much code as I can among various projects.
   
