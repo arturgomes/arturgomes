@@ -3,7 +3,7 @@
 Developer, Designer & Teacher
 -----------------------------
 
-*   🌍  I'm based in Corumbá, Brazil
+*   🌍  I'm based in Natal, Brazil
 *   🖥️  See my profile on [linkedin](https://www.linkedin.com/in/arturoli)
 *   ✉️  You can contact me at [artur.o.gomes@gmail.com](mailto:artur.o.gomes@gmail.com)
 *   🤝  I'm open to collaborating on interesting projects as a developer 
