@@ -9,6 +9,8 @@
 - ✉️ Reach me at [artur.o.gomes@gmail.com](mailto:artur.o.gomes@gmail.com)
 - 🤝 Open to collaborating on interesting projects as a developer
 - 🚀 Passionate about clean code, scalable architecture, and maintainable solutions
+- 🎨 Enthusiastic about UX/UI design and creating intuitive user experiences
+- 🗣️ Languages: Portuguese (Native), English (Fluent), French (Fluent)
 
 ## 🛠️ Technical Expertise
 
@@ -80,6 +82,8 @@
 
 - Deepening expertise in TypeScript design patterns for scalable applications
 - Advanced component architecture and composition patterns in React
+- Advanced TypeScript design patterns for scalable applications
+- Mobile app development with React Native for cross-platform solutions
 - Mastering AWS serverless architecture with Lambda and DynamoDB
 - Modern data management with RTK Query and TanStack React Query
 - Performance optimization for complex data visualizations and tables
