@@ -70,7 +70,7 @@
 | **Backend** | [Node.js](https://nodejs.org/) • [Express](https://expressjs.com/) • [NestJS](https://docs.nestjs.com/) • [REST API](https://restfulapi.net/) • [GraphQL](https://graphql.org/) |
 | **Databases** | [MongoDB](https://www.mongodb.com/) • [PostgreSQL](https://www.postgresql.org/) • [MySQL](https://www.mysql.com/) • [DynamoDB](https://aws.amazon.com/dynamodb/) |
 | **Cloud & DevOps** | [AWS](https://aws.amazon.com/) (EC2, S3, Lambda, Amplify) • [Docker](https://www.docker.com/) • [Kubernetes](https://kubernetes.io/) |
-| **Testing** | [Jest](https://jestjs.io/) • [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) • [Cypress](https://www.cypress.io/) |
+| **Testing** | [Jest](https://jestjs.io/) • [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) • [PlayWirght](https://playwright.dev/) |
 | **Build Tools** | [Webpack](https://webpack.js.org/) • [Vite](https://vitejs.dev/) • [ESBuild](https://esbuild.github.io/) |
 | **Project Management** | [Jira](https://www.atlassian.com/software/jira) • [Linear](https://linear.app/) • [Trello](https://trello.com/) • [Notion](https://www.notion.so/) |
 | **Collaboration** | [Slack](https://slack.com/) • [MS Teams](https://www.microsoft.com/en-us/microsoft-teams/) • [GitHub](https://github.com/) • [GitLab](https://about.gitlab.com/) |
