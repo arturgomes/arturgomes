@@ -82,7 +82,6 @@
 
 - Deepening expertise in TypeScript design patterns for scalable applications
 - Advanced component architecture and composition patterns in React
-- Advanced TypeScript design patterns for scalable applications
 - Mobile app development with React Native for cross-platform solutions
 - Mastering AWS serverless architecture with Lambda and DynamoDB
 - Modern data management with RTK Query and TanStack React Query
